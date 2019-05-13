@@ -1,0 +1,15 @@
+env/
+db.sqlite3
+.vscode
+
+# Python caches
+**/__pycache__
+*.pyc
+
+# Makefile leftovers
+*.done
+
+# Postman tests
+postmantests
+
+Pipfile
